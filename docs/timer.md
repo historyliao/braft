@@ -1,0 +1,2 @@
+handle_election_timeout:  只有lease超时才会发起pre_vote
+handle_stepdown_timeout: 使用单调时间
